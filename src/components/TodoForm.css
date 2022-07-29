@@ -1,0 +1,25 @@
+#inputForm {
+  padding: 12px;
+}
+
+#inputForm label {
+  display: flex;
+  justify-content: space-between;
+  margin: 4px;
+}
+
+#inputTitle {
+  width: 70%;
+}
+
+#btnCreate {
+  margin-top: 8px;
+  padding: 4px;
+  border-radius: 8px;
+  background-color: darkturquoise;
+  cursor: pointer;
+}
+
+#btnCreate:hover {
+  opacity: .8;
+}
